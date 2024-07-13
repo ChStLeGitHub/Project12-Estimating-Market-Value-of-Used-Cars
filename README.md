@@ -1,4 +1,4 @@
-# Project 12: Estimating Market of Used Cars
+# Project 12: Estimating Market Value of Used Cars
  
 **Objective:** To develop a machine learning model for Rusty Bargain, a used car sales company that is building an app intended to accurately and swiftly predict the market value of used cars.
 
